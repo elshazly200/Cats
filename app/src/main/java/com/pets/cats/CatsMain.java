@@ -55,6 +55,7 @@ public class CatsMain extends AppCompatActivity {
     private void RotateImage() {
         img.setRotation(0);
         img.animate().rotationBy(1800f).setDuration(300);
+        //cc
     }
 
 
