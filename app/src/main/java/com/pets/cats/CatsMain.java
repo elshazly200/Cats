@@ -58,6 +58,9 @@ public class CatsMain extends AppCompatActivity {
         //cc vv
     }
 
+    private void xx() {
+        String ss = "";
+    }
 
 }
 
